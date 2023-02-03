@@ -2,4 +2,4 @@
 
 - 🌱 Atualmente aprendendo JavaScript e Python
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?rossi-web=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rossi-web)](https://github.com/anuraghazra/github-readme-stats)
