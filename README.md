@@ -1,7 +1,7 @@
 
 ## Olá! Seja bem-vindo(a) ao meu perfil do github.
 
-- 🌱 Atualmente aprendendo JavaScript e Python
+- 🌱 Atualmente aprendendo Java 
 
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rossi-web&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
